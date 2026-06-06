@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="542bf834-7e66-4981-8164-c94a82177aab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/func_advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/func_advanced.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion.py" afterDir="false" />
-    </list>
+    <list default="true" id="542bf834-7e66-4981-8164-c94a82177aab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
