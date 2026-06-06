@@ -5,7 +5,7 @@ import json
 def parse_log_line(line):
     parts = line.split("|")
 
-    date = parts[0]
+    date = parts[0] #проверить бы индексы
     level = parts[1]
     message = parts[2]
 
@@ -37,7 +37,7 @@ def filter_logs(logs_list, **kwargs):
     for log in logs_list:
         match = True
         for key, value in kwargs.items():
-            if key not in log or log[key] != value:
+            if key not in log or log[key] != value: #в словари лучше обращатьтся через get()
                 match = False
                 break
         if match:
